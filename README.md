@@ -20,8 +20,6 @@
 
 <br>
 
-### `about.md`
-
 ```yaml
 Name:      Sujit Raut
 Role:      AI Engineer (GenAI / MLOps)
@@ -42,7 +40,7 @@ stack/
 └── cloud/           azure  gcp
 ```
 
-### `projects/` — sorted by featured
+### `projects/`
 
 ```
 fda-drug-label-rag-assistant/       RAG over real FDA labels · grounded, cited, refuses to guess
@@ -51,20 +49,16 @@ credit-risk-fairness-mlops/         Credit risk model + SHAP/Fairlearn bias audi
 sales-forecast-mlops-pipeline/      Team-of-4 final year project · Kubernetes + Airflow + Kafka
 ```
 
-**[→ fda-drug-label-rag-assistant](https://github.com/sujit428755/fda-drug-label-rag-assistant)**
-> A RAG assistant that answers clinical drug questions from real FDA structured product labels — no guessing. Every answer is grounded in retrieved label text with a citation, or the system explicitly says "not found in provided labels" instead of hallucinating a dose.
-
 ### `status`
 
-```json
-{
-  "open_to_work": true,
-  "target_role": "GenAI Engineer",
-  "response_time": "< 24h"
-}
-```
+<div align="center">
+
+`🟢 open to work`&nbsp;&nbsp;·&nbsp;&nbsp;`🎯 target: GenAI Engineer`&nbsp;&nbsp;·&nbsp;&nbsp;`⚡ response time: < 24h`
+
+</div>
+
+<br>
 
 <div align="center">
-<br>
 <sub><i>exit code 0 — session terminated gracefully</i></sub>
 </div>
