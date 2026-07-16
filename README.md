@@ -50,7 +50,14 @@ clinical-multi-agent-langgraph     LangGraph orchestration · research + interac
 credit-risk-fairness-mlops         Credit risk model + SHAP/Fairlearn bias audit · MLflow + Docker
 sales-forecast-mlops-pipeline      Team-of-4 final year project · Kubernetes + Airflow + Kafka
 ```
+### `projects/`
 
+| Repository | Description |
+|---|---|
+| [`fda-drug-label-rag-assistant`](https://github.com/sujit428755/fda-drug-label-rag-assistant) | RAG over real FDA labels · grounded, cited, refuses to guess |
+| [`clinical-multi-agent-langgraph`](https://github.com/sujit428755/clinical-multi-agent-langgraph) | LangGraph orchestration · research + interaction + synthesis agents |
+| [`credit-risk-fairness-mlops`](https://github.com/sujit428755/credit-risk-fairness-mlops) | Credit risk model + SHAP/Fairlearn bias audit · MLflow + Docker |
+| [`sales-forecast-mlops-pipeline`](https://github.com/sujit428755/sales-forecast-mlops-pipeline) | Team-of-4 final year project · Kubernetes + Airflow + Kafka |
 ### `status`
 
 <div align="center">
