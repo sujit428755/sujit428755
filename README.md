@@ -42,15 +42,8 @@ stack
 └── cloud           azure  gcp
 ```
 
+```
 ### `Projects`
-
-```
-fda-drug-label-rag-assistant       RAG over real FDA labels · grounded, cited, refuses to guess
-clinical-multi-agent-langgraph     LangGraph orchestration · research + interaction + synthesis agents
-credit-risk-fairness-mlops         Credit risk model + SHAP/Fairlearn bias audit · MLflow + Docker
-sales-forecast-mlops-pipeline      Team-of-4 final year project · Kubernetes + Airflow + Kafka
-```
-### `projects/`
 
 | Repository | Description |
 |---|---|
