@@ -20,7 +20,7 @@
 
 <br>
 
-### `About/`
+### `About`
 
 ```yaml
 Name:      Sujit Raut
@@ -30,25 +30,25 @@ Studying:  B.E. Artificial Intelligence & Data Science — DY Patil, Pune (2026)
 Currently: Exploring LangGraph agent architectures + fairness auditing
 ```
 
-### `Stack/`
+### `Stack`
 
 ```
-stack/
-├── languages/       python  sql  cpp
-├── genai/           langchain  langgraph  chromadb  groq-api  prompt-engineering
-├── ml/              scikit-learn  xgboost  tensorflow  keras
-├── responsible_ai/  shap  fairlearn
-├── mlops/           mlflow  dvc  docker  kubernetes  airflow  kafka  spark  fastapi
-└── cloud/           azure  gcp
+stack
+├── languages       python  sql  cpp
+├── genai           langchain  langgraph  chromadb  groq-api  prompt-engineering
+├── ml              scikit-learn  xgboost  tensorflow  keras
+├── responsible_ai  shap  fairlearn
+├── mlops           mlflow  dvc  docker  kubernetes  airflow  kafka  spark  fastapi
+└── cloud           azure  gcp
 ```
 
-### `Projects/`
+### `Projects`
 
 ```
-fda-drug-label-rag-assistant/       RAG over real FDA labels · grounded, cited, refuses to guess
-clinical-multi-agent-langgraph/     LangGraph orchestration · research + interaction + synthesis agents
-credit-risk-fairness-mlops/         Credit risk model + SHAP/Fairlearn bias audit · MLflow + Docker
-sales-forecast-mlops-pipeline/      Team-of-4 final year project · Kubernetes + Airflow + Kafka
+fda-drug-label-rag-assistant       RAG over real FDA labels · grounded, cited, refuses to guess
+clinical-multi-agent-langgraph     LangGraph orchestration · research + interaction + synthesis agents
+credit-risk-fairness-mlops         Credit risk model + SHAP/Fairlearn bias audit · MLflow + Docker
+sales-forecast-mlops-pipeline      Team-of-4 final year project · Kubernetes + Airflow + Kafka
 ```
 
 ### `status`
