@@ -19,8 +19,7 @@
 </div>
 
 <br>
-
-### `About`
+### `About Me`
 
 ```yaml
 Name:      Sujit Raut
@@ -42,7 +41,6 @@ stack
 └── cloud           azure  gcp
 ```
 
-```
 ### `Projects`
 
 | Repository | Description |
@@ -51,7 +49,8 @@ stack
 | [`clinical-multi-agent-langgraph`](https://github.com/sujit428755/clinical-multi-agent-langgraph) | LangGraph orchestration · research + interaction + synthesis agents |
 | [`credit-risk-fairness-mlops`](https://github.com/sujit428755/credit-risk-fairness-mlops) | Credit risk model + SHAP/Fairlearn bias audit · MLflow + Docker |
 | [`sales-forecast-mlops-pipeline`](https://github.com/sujit428755/sales-forecast-mlops-pipeline) | Team-of-4 final year project · Kubernetes + Airflow + Kafka |
-### `status`
+
+### `Status`
 
 <div align="center">
 
