@@ -11,14 +11,14 @@ sujit@portfolio:~$ cat about.md
 ```
 
 ```yaml
-name:      Sujit Raut
-role:      AI Engineer (GenAI / MLOps)
-focus:     Retrieval-Augmented Generation, Multi-Agent Orchestration, Responsible AI
-studying:  B.E. Artificial Intelligence & Data Science — DY Patil, Pune (2026)
-currently: exploring LangGraph agent architectures + fairness auditing
-contact:
-  linkedin: linkedin.com/in/sujitraut428755
-  email:    sujitraut428755@gmail.com
+Name:      Sujit Raut
+Role:      AI Engineer (GenAI / MLOps)
+Focus:     Retrieval-Augmented Generation, Multi-Agent Orchestration, Responsible AI
+Studying:  B.E. Artificial Intelligence & Data Science — DY Patil, Pune (2026)
+Currently: Exploring LangGraph agent architectures + fairness auditing
+Contact:
+  LinkedIn: linkedin.com/in/sujitraut428755
+  Email:    sujitraut428755@gmail.com
 ```
 
 <br>
@@ -75,13 +75,28 @@ sujit@portfolio:~$ curl -s api.sujit.dev/status
 }
 ```
 
+<br>
+
+```bash
+sujit@portfolio:~$ ▊
+```
+
 <div align="center">
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=8AB4F8&label=)](https://www.linkedin.com/in/sujitraut428755)
-[![Email](https://img.shields.io/badge/email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8AB4F8&label=)](mailto:sujitraut428755@gmail.com)
-[![GitHub](https://img.shields.io/badge/repos-1a1a2e?style=for-the-badge&logo=github&logoColor=8AB4F8&label=)](https://github.com/sujit428755?tab=repositories)
+<a href="https://www.linkedin.com/in/sujitraut428755">
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1a1a2e&style=flat-square&logo=linkedin&logoColor=8AB4F8" />
+</a>
+&nbsp;
+<a href="mailto:sujitraut428755@gmail.com">
+  <img src="https://img.shields.io/static/v1?label=&message=Email&color=1a1a2e&style=flat-square&logo=gmail&logoColor=8AB4F8" />
+</a>
+&nbsp;
+<a href="https://github.com/sujit428755?tab=repositories">
+  <img src="https://img.shields.io/static/v1?label=&message=Repositories&color=1a1a2e&style=flat-square&logo=github&logoColor=8AB4F8" />
+</a>
 
-<sub>~ this session terminated gracefully, exit code 0 ~</sub>
+<br><br>
+<sub><i>exit code 0 — session terminated gracefully</i></sub>
 
 </div>
