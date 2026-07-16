@@ -20,6 +20,8 @@
 
 <br>
 
+### `About/`
+
 ```yaml
 Name:      Sujit Raut
 Role:      AI Engineer (GenAI / MLOps)
@@ -28,7 +30,7 @@ Studying:  B.E. Artificial Intelligence & Data Science — DY Patil, Pune (2026)
 Currently: Exploring LangGraph agent architectures + fairness auditing
 ```
 
-### `stack/`
+### `Stack/`
 
 ```
 stack/
@@ -40,7 +42,7 @@ stack/
 └── cloud/           azure  gcp
 ```
 
-### `projects/`
+### `Projects/`
 
 ```
 fda-drug-label-rag-assistant/       RAG over real FDA labels · grounded, cited, refuses to guess
