@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=sujit%40portfolio%3A~%24+whoami;AI+Engineer+%7C+RAG+%2B+Multi-Agent+Systems;sujit%40portfolio%3A~%24+status+--current;Building+production-grade+GenAI+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=700&lines=sujit%40portfolio%3A~%24+whoami;AI+Engineer+%7C+RAG+%2B+Multi-Agent+Systems;sujit%40portfolio%3A~%24+status+--current;Trainee+Engineer+%40+CitiusTech+%7C+GenAI+Academy;Building+production-grade+GenAI+systems" alt="Typing SVG" />
 
 <br>
 
@@ -24,10 +24,10 @@
 
 ```yaml
 Name:      Sujit Raut
-Role:      AI Engineer (GenAI / MLOps)
-Focus:     Retrieval-Augmented Generation, Multi-Agent Orchestration, Responsible AI
-Studying:  B.E. Artificial Intelligence & Data Science — DY Patil, Pune (2026)
-Currently: Exploring LangGraph agent architectures + fairness auditing
+Role:      Trainee Software Engineer — AI & BI / GenAI Academy @ CitiusTech
+Focus:     Agentic AI, Retrieval-Augmented Generation, Multi-Agent Orchestration, Responsible AI
+Studied:   B.E. Artificial Intelligence & Data Science — DY Patil, Pune (2026)
+Currently: Building agentic GenAI systems — LangGraph, tool calling, guardrails, human-in-the-loop
 ```
 
 ### `Stack`
@@ -35,10 +35,10 @@ Currently: Exploring LangGraph agent architectures + fairness auditing
 ```
 stack
 ├── languages       python  sql  cpp
-├── genai           langchain  langgraph  chromadb  groq-api  prompt-engineering
+├── genai           langchain  langgraph  chromadb  groq-api  prompt-engineering  tool-calling  text-to-sql
 ├── ml              scikit-learn  xgboost  tensorflow  keras
-├── responsible_ai  shap  fairlearn
-├── mlops           mlflow  dvc  docker  kubernetes  airflow  kafka  spark  fastapi
+├── responsible_ai  shap  fairlearn  guardrails
+├── mlops           mlflow  dvc  docker  kubernetes  airflow  kafka  spark  fastapi  streamlit
 └── cloud           azure  gcp
 ```
 
@@ -46,6 +46,8 @@ stack
 
 | Repository | Description |
 |---|---|
+| [`ecommerce-support-agent`](https://github.com/sujit428755/ecommerce-support-agent) | Agentic support & returns · tool calling, policy RAG, text-to-SQL, prompt-injection guard, human escalation queue |
+| [`loan-underwriting-agent`](https://github.com/sujit428755/loan-underwriting-agent) | Multi-agent loan underwriting · fraud checks, credit ML + SHAP, policy RAG with citations, human approval gate |
 | [`fda-drug-label-rag-assistant`](https://github.com/sujit428755/fda-drug-label-rag-assistant) | RAG over real FDA labels · grounded, cited, refuses to guess |
 | [`clinical-multi-agent-langgraph`](https://github.com/sujit428755/clinical-multi-agent-langgraph) | LangGraph orchestration · research + interaction + synthesis agents |
 | [`credit-risk-fairness-mlops`](https://github.com/sujit428755/credit-risk-fairness-mlops) | Credit risk model + SHAP/Fairlearn bias audit · MLflow + Docker |
@@ -55,7 +57,7 @@ stack
 
 <div align="center">
 
-`🟢 open to work`&nbsp;&nbsp;·&nbsp;&nbsp;`🎯 target: GenAI Engineer`&nbsp;&nbsp;·&nbsp;&nbsp;`⚡ response time: < 24h`
+`💼 trainee software engineer @ CitiusTech`&nbsp;&nbsp;·&nbsp;&nbsp;`🧠 AI & BI / GenAI Academy`&nbsp;&nbsp;·&nbsp;&nbsp;`⚡ response time: < 24h`
 
 </div>
 
